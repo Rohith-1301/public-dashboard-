@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "$2b$12$uJLCLOS8MfcRyssLYQeDlOHudgPwNnl7O0lXX3EXFzjKjRByUcKgK",
+            "role": "admin",
+            "created": "2024-01-01 00:00:00"
+        },
+        {
+            "username": "user1",
+            "password": "$2b$12$q31y.9i2Z3jux6XMbe0E8ujYNJddf7Z2zmx4ylScV.Fc32GhDlim6",
+            "role": "user",
+            "created": "2024-01-01 00:00:00"
+        }
+    ]
+}
